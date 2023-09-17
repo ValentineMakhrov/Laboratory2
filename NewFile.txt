@@ -1,0 +1,6 @@
+EtherCAT (Ethernet for Control Automation Technology) is an Ethernet-based fieldbus system invented by Beckhoff Automation. 
+The protocol is standardized in IEC 61158 and is suitable for both hard and soft real-time computing requirements in automation technology. 
+The goal during development of EtherCAT was to apply Ethernet for automation applications requiring short data update times (also called cycle times; ≤ 100 μs) with low communication jitter (for precise synchronization purposes; ≤ 1 μs) 
+and reduced hardware costs. Typical application fields for EtherCAT are machine controls (e.g. semiconductor tools, metal forming, packaging, injection molding, assembly systems, printing machines, robotics). 
+Remote controlled hump yard facilities used in the railroad industry.
+Alternative technologies for networking in the industrial environment are EtherNet/IP, Profinet and Profibus.
